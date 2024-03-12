@@ -10,11 +10,10 @@ This repository stores all relevant files and data regarding the proposed System
 ## Available Files:
 ```
 .
-├── README.md
-├── legion_ref_ontology (Reference Ontology)                 # Latest version: v1.0.
-├── legion_operational_ontology (Operational Ontology)       # Latest version: v1.1.
-├── ISO_dictionary (Glossary of terms, providing ISO reuse)  # Latest version: v1.0.
-├── owl_docs (Generated OWL documentation)                   # Latest version: v1.0.
+├── ESWA_towards_legal_interoperability_SLR.pdf         # Complete paper
+├── README.md                                           # Readme file
+├── slr_report_summary.pdf                              # Report summary
+├── towards_legal_interoperability_ids_SLR.jpynb        # Source code of data analysis
 ```
 
 ## Methodology
